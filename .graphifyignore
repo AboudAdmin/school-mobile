@@ -1,0 +1,29 @@
+# Dependencies and generated output
+node_modules/
+.expo/
+dist/
+web-build/
+coverage/
+android/
+ios/
+graphify-out/
+
+# Images, icons, fonts, and other binary assets
+assets/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.ico
+*.svg
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# Lockfiles and generated metadata
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+*.tsbuildinfo
